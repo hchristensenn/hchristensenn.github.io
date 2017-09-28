@@ -38,6 +38,7 @@ td {
 }
 
 tr {
+	border: 1px black;
 	text-align: center;
 	background-color: lightgray; 
 }
