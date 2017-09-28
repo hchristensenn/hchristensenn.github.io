@@ -1,5 +1,5 @@
 body{
-	background-color: white;
+	background-color: black;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	color:white;
 }
@@ -10,7 +10,7 @@ h1 {
 }
 a:link, a:visited {
     background-color: gray;
-    color: white;
+    color: black;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
@@ -46,5 +46,5 @@ tr {
 th {
 	text-align: center;
 	color: white;
-	background-color: black;
+	background-color: white;
 }
