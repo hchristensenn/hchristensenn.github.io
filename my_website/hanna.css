@@ -1,7 +1,7 @@
 body{
 	background-color: white;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	color:black;
+	color:white;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 }
 a:link, a:visited {
     background-color: gray;
-    color: black;
+    color: white;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
@@ -20,7 +20,7 @@ a:link, a:visited {
 
 a:hover, a:active {
     color: white;
-    background-color: white;
+    background-color: black;
 }
 
 table {
@@ -38,7 +38,7 @@ td {
 }
 
 tr {
-	border: 1px white;
+	border: 1px black;
 	text-align: center;
 	background-color: lightgray; 
 }
@@ -46,5 +46,5 @@ tr {
 th {
 	text-align: center;
 	color: white;
-	background-color: white;
+	background-color: black;
 }
