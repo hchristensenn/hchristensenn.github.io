@@ -1,7 +1,7 @@
 body{
-	background-color: black;
+	background-color: white;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	color:white;
+	color:black;
 }
 
 h1 {
@@ -38,9 +38,8 @@ td {
 }
 
 tr {
-	border: 1px black;
 	text-align: center;
-	background-color: white; 
+	background-color: lightgray; 
 }
 
 th {
