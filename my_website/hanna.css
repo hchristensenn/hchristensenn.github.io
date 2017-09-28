@@ -38,13 +38,13 @@ td {
 }
 
 tr {
-	border: 1px white;
+	border: 1px black;
 	text-align: center;
-	background-color: lightgray; 
+	background-color: white; 
 }
 
 th {
 	text-align: center;
 	color: white;
-	background-color: white;
+	background-color: black;
 }
